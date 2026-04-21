@@ -12,7 +12,7 @@ builder.Services.AddOpenApiDocument(config =>
     config.DocumentName = "v1";
     config.Title = "Team Directory API";
     config.Version = "v1";
-    config.Description = "Minimal IT3045C final project API using ASP.NET Core, EF Core, SQLite, and NSwag.";
+    config.Description = "IT3045C final project API using ASP.NET Core, EF Core, SQLite, and NSwag.";
 });
 
 var app = builder.Build();
