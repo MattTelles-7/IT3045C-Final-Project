@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeamDirectoryApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cede575e849245308b37f614d1c59faa12f0d3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10ace85f857d2cdf3c70a084d5665df3306fc8ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeamDirectoryApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeamDirectoryApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

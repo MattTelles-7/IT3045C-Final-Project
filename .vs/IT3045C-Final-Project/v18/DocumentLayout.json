@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josh\\Documents\\GitHub\\IT3045C-Final-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0575E0FC-389E-69D2-15FA-A8C1376D3AE0}|TeamDirectoryApi.csproj|c:\\users\\josh\\documents\\github\\it3045c-final-project\\migrations\\20260421160000_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0575E0FC-389E-69D2-15FA-A8C1376D3AE0}|TeamDirectoryApi.csproj|solutionrelative:migrations\\20260421160000_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260421160000_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\GitHub\\IT3045C-Final-Project\\Migrations\\20260421160000_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260421160000_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\GitHub\\IT3045C-Final-Project\\Migrations\\20260421160000_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260421160000_InitialCreate.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwB4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:11:08.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

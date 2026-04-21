@@ -20,8 +20,6 @@ var app = builder.Build();
 app.UseOpenApi();
 app.UseSwaggerUi();
 
-app.UseHttpsRedirection();
-
 app.MapControllers();
 
 using (var scope = app.Services.CreateScope())
