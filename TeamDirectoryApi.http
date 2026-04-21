@@ -1,0 +1,40 @@
+@TeamDirectoryApi_HostAddress = http://localhost:5099
+
+GET {{TeamDirectoryApi_HostAddress}}/api/TeamMembers
+Accept: application/json
+
+###
+
+GET {{TeamDirectoryApi_HostAddress}}/api/TeamMembers/1
+Accept: application/json
+
+###
+
+POST {{TeamDirectoryApi_HostAddress}}/api/Hobbies
+Content-Type: application/json
+
+{
+  "hobbyName": "Fishing",
+  "category": "Outdoor",
+  "indoorOrOutdoor": "Outdoor",
+  "skillLevel": "Beginner",
+  "notes": "Weekend hobby"
+}
+
+###
+
+PUT {{TeamDirectoryApi_HostAddress}}/api/StudyTools/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "toolName": "Visual Studio 2022",
+  "category": "IDE",
+  "platform": "Desktop",
+  "isFree": true,
+  "purpose": "Writing and debugging C# code"
+}
+
+###
+
+DELETE {{TeamDirectoryApi_HostAddress}}/api/BreakfastFoods/5
